@@ -2,7 +2,7 @@
 
 The goal of work is to glean actionable insight from an A/B test data to determine the effects of increasing the price of a software product.
 
-This work tacks the following 3 questions:
+This work tackles the following 3 questions:
 1. What impact does increasing the software price have on the conversion rate?
 2. What impact does increasing the software price have on the total revenue?
 3. What additional insights from the data could be use to retain or increase conversion rate ?
